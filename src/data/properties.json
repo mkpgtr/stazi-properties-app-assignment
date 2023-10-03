@@ -1,0 +1,415 @@
+[
+    {
+        "id" : 1,
+        "propertyLocation" : "London",
+        "isPopular" :true,
+        "rooms" : 3,
+        "bed" : 4,
+        "bath" : 1,
+        "sft" : 732,
+        "propertyFor":"sale",
+        "propertyPrice":7722,
+        "propertyAddressSm" :"8558 Green Rd",
+        "propertyAddressLg" :"RCE Theatres - 907 S Beckford Dr,Henderson,NC 27536",
+        "propertyImage":"https://media.npr.org/assets/img/2013/01/04/london_properties_custom-a8163018528f850131613f49926c503aaa6efe11-s1200.jpg"
+
+    },
+    {
+        "id" : 2,
+        "propertyLocation" : "New York",
+        "isPopular" :false,
+        "rooms" : 3,
+        "bed" : 4,
+        "bath" : 1,
+        "sft" : 732,
+        "propertyFor":"rent",
+        "propertyPrice":7722,
+        "propertyAddressSm" :"8558 Green Rd",
+        "propertyAddressLg" :"RCE Theatres - 907 S Beckford Dr,Henderson,NC 27536",
+        "propertyImage":"https://images.mansionglobal.com/im-235756/social"
+    },
+    {
+            "id" : 3,
+            "propertyLocation" : "Paris",
+            "isPopular" :false,
+            "rooms" : 3,
+            "bed" : 4,
+            "bath" : 1,
+            "sft" : 732,
+            "propertyFor":"sale",
+        "propertyPrice":7722,
+        "propertyAddressSm" :"8558 Green Rd",
+        "propertyAddressLg" :"RCE Theatres - 907 S Beckford Dr,Henderson,NC 27536",
+        "propertyImage":"https://images.mansionglobal.com/im-235756/social"
+    },
+    {
+        "id" : 4,
+        "propertyLocation" : "Mumbai",
+        "isPopular" :false,
+        "rooms" : 3,
+        "bed" : 4,
+        "bath" : 1,
+        "sft" : 732,
+        "propertyFor":"sale",
+        "propertyPrice":7722,
+        "propertyAddressSm" :"8558 Green Rd",
+        "propertyAddressLg" :"RCE Theatres - 907 S Beckford Dr,Henderson,NC 27536",
+        "propertyImage":"https://media.npr.org/assets/img/2013/01/04/london_properties_custom-a8163018528f850131613f49926c503aaa6efe11-s1200.jpg"
+    },
+    {
+        "id" : 5,
+        "propertyLocation" : "Paris",
+        "isPopular" :true,
+        "rooms" : 3,
+        "propertyFor":"Sale",
+        "bed" : 4,
+        "bath" : 1,
+        "sft" : 732,
+        "propertyAddressSm" :"8558 Green Rd",
+        "propertyAddressLg" :"Spring Lane Cinemas - 1351 Plaza Blvd Sanford NC 2733",
+        "propertyImage":"https://cdn.vht.com/cdn/images/API/T434266452/still/vht_viewer_2001.jpg?vwtmstmp=637944457887500000"
+    },
+    {
+        "id" : 6,
+        "propertyLocation" : "London",
+        "isPopular" :false,
+        "rooms" : 3,
+        "bed" : 4,
+        "bath" : 1,
+        "sft" : 732,
+        "propertyFor":"sale",
+        "propertyPrice":7722,
+        "propertyAddressSm" :"8558 Green Rd",
+        "propertyAddressLg" :"RCE Theatres - 907 S Beckford Dr,Henderson,NC 27536",
+        "propertyImage":"https://static3.mansionglobal.com/production/media/article-images/c9e0f1e543093d817f9476587e8e91f8/large_GettyImages-114989510.jpg"
+    },
+    {
+        "id" : 7,
+        "propertyLocation" : "New York",
+        "isPopular" :true,
+        "rooms" : 3,
+        "bed" : 4,
+        "bath" : 1,
+        "sft" : 732
+
+    },
+    {
+            "id" : 8,
+            "propertyLocation" : "Paris",
+            "isPopular" :false,
+            "rooms" : 3,
+            "bed" : 4,
+            "bath" : 1,
+            "propertyAddressSm" :"3890 Poplar Dr",
+            "propertyAddressLg" :"Regal North Hills  - 4150 Main at North Hills St. Releigh",
+            "sft" : 732,
+            "propertyFor":"Sale",
+            "propertyImage":"https://i.ytimg.com/vi/srHefaA7mew/maxresdefault.jpg"
+        },
+        {
+            "id" : 9,
+            "propertyLocation" : "Mumbai",
+            
+        "isPopular" :false,
+        "rooms" : 3,
+        "bed" : 4,
+        "bath" : 1,
+        "sft" : 732
+    },
+    {
+        "id" : 10,
+        "propertyLocation" : "London",
+        "isPopular" :true,
+        "propertyImage":"https://www.lifescienceindustrynews.com/wp-content/uploads/2021/10/211005_LondonRealEstate.jpg"
+    },
+    {
+        "id" : 11,
+        "propertyLocation" : "Paris",
+        "isPopular" :false,
+        "propertyImage":"https://bigskyrealestate.com/wp-content/uploads/1-28276.jpg",
+        "propertyAddressSm" :"8558 Green Rd",
+        "propertyAddressLg" :"RCE Theatres - 907 S Beckford Dr,Henderson,NC 27536",
+        "rooms" : 3,
+        "bed" : 4,
+        "bath" : 1,
+        "sft" : 732
+    },
+    {
+        "id" : 12,
+        "propertyLocation" : "Mumbai",
+        "isPopular" :false,
+        "rooms" : 3,
+        "bed" : 4,
+        "bath" : 1,
+        "sft" : 732
+
+    },
+    {
+        "id" : 13,
+        "propertyLocation" : "London",
+        "isPopular" :false,
+        "rooms" : 3,
+        "bed" : 4,
+        "bath" : 1,
+        "sft" : 732
+    },
+    {
+        "id" : 14,
+        "propertyLocation" : "Paris",
+        "isPopular" :true,
+        "rooms" : 3,
+        "bed" : 4,
+        "bath" : 1,
+        "sft" : 732,
+        "propertyImage":"https://i.pinimg.com/736x/44/21/9b/44219b58cfad025abd9abba1f21cb13e--outdoor-spaces-real-estates.jpg"
+    },
+    {
+        "id" : 15,
+        "propertyLocation" : "New York",
+        "isPopular" :true,
+        "rooms" : 3,
+        "bed" : 4,
+        "bath" : 1,
+        "sft" : 732
+    },
+    {
+        "id" : 16,
+        "propertyLocation" : "Paris",
+        "isPopular" :true,
+        "rooms" : 3,
+        "bed" : 4,
+        "bath" : 1,
+        "sft" : 732,
+        "propertyImage":"https://www.pennsylvaniarealestatephotography.com/img/s/v-10/p3927214043-3.jpg"
+        
+    },
+    {
+        "id" : 17,
+        "propertyLocation" : "New York",
+        "isPopular" : true,
+        "rooms" : 3,
+        "bed" : 4,
+        "bath" : 1,
+        "sft" : 732,
+        "propertyImage":"https://360-rei.com/wp-content/uploads/billboard-exterior-of-home.jpg"
+        
+    },
+    {
+        "id" : 18,
+        "propertyLocation" : "Paris",
+        "isPopular":true,
+        "rooms" : 3,
+        "bed" : 4,
+        "bath" : 1,
+        "sft" : 732,
+        "propertyImage":"https://i.pinimg.com/736x/be/a2/ef/bea2ef4f53a3afe07797c85f89cc7d18--real-estate-photography-real-estates.jpg"
+     },
+     {
+        "id" : 19,
+        "propertyLocation" : "London",
+        "isPopular":false,
+        "rooms" : 3,
+        "bed" : 4,
+        "bath" : 1,
+        "sft" : 732
+     },
+     {
+        "id" : 19,
+        "propertyLocation" : "Mumbai",
+        "isPopular":false,
+        "rooms" : 3,
+        "bed" : 4,
+        "bath" : 1,
+        "propertyAddressSm" :"3890 Poplar Dr",
+        "propertyAddressLg" :"Regal North Hills  - 4150 Main at North Hills St. Releigh",
+        "sft" : 732,
+        "propertyFor":"Sale"
+     },
+     {
+        "id" : 20,
+        "propertyLocation" : "Mumbai",
+        "isPopular":true,
+        "rooms" : 3,
+        "bed" : 4,
+        "bath" : 1,
+        "propertyAddressSm" :"3890 Poplar Dr",
+        "propertyAddressLg" :"Regal North Hills  - 4150 Main at North Hills St. Releigh",
+        "sft" : 732,
+        "propertyFor":"Sale"
+     },
+     {
+        "id" : 21,
+        "propertyLocation" : "Paris",
+        "isPopular":false,
+        "rooms" : 3,
+        "bed" : 4,
+        "bath" : 1,
+        "propertyAddressSm" :"3890 Poplar Dr",
+        "propertyAddressLg" :"Regal North Hills  - 4150 Main at North Hills St. Releigh",
+        "sft" : 732,
+        "propertyFor":"Sale",
+        "propertyImage":"https://i.ytimg.com/vi/srHefaA7mew/maxresdefault.jpg"
+    },
+    {
+        "id" : 22,
+        "propertyLocation" : "New York",
+        "isPopular":false,
+        "rooms" : 3,
+        "bed" : 4,
+        "bath" : 1,
+        "sft" : 732,
+        "propertyImage":"https://i.pinimg.com/originals/a0/9b/e0/a09be083a4a05a984947fcd580ae3a5a.jpg"
+
+     },
+     {
+        "id" : 22,
+        "propertyLocation" : "Paris",
+        "isPopular":false,
+        "rooms" : 3,
+        "bed" : 4,
+        "bath" : 1,
+        "sft" : 732,
+        "propertyImage":"https://i.pinimg.com/originals/a0/9b/e0/a09be083a4a05a984947fcd580ae3a5a.jpg"
+    },
+    {
+        "id" : 23,
+        "propertyLocation" : "Paris",
+        "isPopular":false,
+        "propertyImage":"https://th.bing.com/th/id/OIP.sLJfBck8EnPAsNeA82E3MAHaE6?pid=ImgDet&rs=1",
+        "rooms" : 3,
+        "bed" : 4,
+        "bath" : 1,
+        "propertyAddressSm" :"3890 Poplar Dr",
+        "propertyAddressLg" :"Regal North Hills  - 4150 Main at North Hills St. Releigh",
+        "sft" : 732,
+        "propertyFor":"Sale"
+    },
+    {
+        "id" : 24,
+        "propertyLocation" : "Paris",
+        "isPopular":false,
+        "propertyImage":"https://www.realestate.com.au/blog/images/1024x768-fit,progressive/2020/07/29135213/capi_875234d5a346d4168c2c74bcd15f9d14_c0a9e3378dc404e231f5c9184bdc9f12.jpeg",
+        "rooms" : 3,
+        "bed" : 4,
+        "bath" : 1,
+        "sft" : 732
+        
+    },
+    {
+        "id" : 25,
+        "propertyLocation" : "Paris",
+        "isPopular":false,
+        "propertyImage":"https://www.donwrightdesigns.com/wp-content/gallery/231-perrys-place-lynchburg/DJI_0082.jpg",
+        "rooms" : 3,
+            "bed" : 4,
+            "bath" : 1,
+            "propertyAddressSm" :"3890 Poplar Dr",
+            "propertyAddressLg" :"Regal North Hills  - 4150 Main at North Hills St. Releigh",
+            "sft" : 732,
+            "propertyFor":"Sale"
+     },
+     {
+        "id" : 26,
+        "propertyLocation" : "Paris",
+        "isPopular":false,
+        "propertyImage":"https://romarealestate.it/wp-content/uploads/2019/12/r231-duodo-2-1024x738.jpeg",
+        "rooms" : 3,
+        "bed" : 4,
+        "bath" : 1,
+        "propertyAddressSm" :"3890 Poplar Dr",
+        "propertyAddressLg" :"Regal North Hills  - 4150 Main at North Hills St. Releigh",
+        "sft" : 732,
+        "propertyFor":"Sale"
+     },
+     {
+        "id" : 27,
+        "propertyLocation" : "Paris",
+        "isPopular":false,
+        "propertyImage":"https://cdnparap40.paragonrels.com/ParagonImages/Property/P4/COLUMBIA/485182/0/0/0/f61a075bee33c1b8931a30f399623579/1/f1834c608ca572fb931926f68ae32dd2/485182.JPG",
+        "rooms" : 3,
+        "bed" : 4,
+        "bath" : 1,
+        "propertyAddressSm" :"3890 Poplar Dr",
+        "propertyAddressLg" :"Regal North Hills  - 4150 Main at North Hills St. Releigh",
+        "sft" : 732,
+        "propertyFor":"Sale"
+     },
+     {
+        "id" : 28,
+        "propertyLocation" : "Paris",
+        "isPopular":false,
+        "propertyImage":"https://photos.zolo.ca/231-killian-road-vaughan-N5126573-1.jpg?2021-02-27+04:27:06",
+        "rooms" : 3,
+        "bed" : 4,
+        "bath" : 1,
+        "propertyAddressSm" :"3890 Poplar Dr",
+        "propertyAddressLg" :"Regal North Hills  - 4150 Main at North Hills St. Releigh",
+        "sft" : 732,
+        "propertyFor":"Sale"
+    },
+    {
+        "id" : 29,
+        "propertyLocation" : "Paris",
+        "isPopular":false,
+        "propertyImage":"https://www.pennsylvaniarealestatephotography.com/img/s/v-10/p3927213959-3.jpg"
+     },
+     {
+        "id" : 30,
+        "propertyLocation" : "Paris",
+        "isPopular":false,
+        "propertyImage":"https://www.kathybrothers.com/Property/231-South-Calumet-Avenue-Aurora-10565944/Images/Index/977724/0/t",
+        "rooms" : 3,
+        "bed" : 4,
+        "bath" : 1,
+        "propertyAddressSm" :"3890 Poplar Dr",
+        "propertyAddressLg" :"Regal North Hills  - 4150 Main at North Hills St. Releigh",
+        "sft" : 732,
+        "propertyFor":"Sale"
+     },{
+        "id" : 31,
+        "propertyLocation" : "London",
+        "isPopular" :false,
+        "rooms" : 3,
+        "bed" : 4,
+        "bath" : 1,
+        "sft" : 732,
+        "propertyFor":"sale",
+        "propertyPrice":7722,
+        "propertyAddressSm" :"8558 Green Rd",
+        "propertyAddressLg" :"RCE Theatres - 907 S Beckford Dr,Henderson,NC 27536",
+        "propertyImage":"https://static3.mansionglobal.com/production/media/article-images/c9e0f1e543093d817f9476587e8e91f8/large_GettyImages-114989510.jpg"
+    },
+    {
+        "id" : 32,
+        "propertyLocation" : "London",
+        "isPopular" :false,
+        "rooms" : 3,
+        "bed" : 4,
+        "bath" : 1,
+        "sft" : 732,
+        "propertyFor":"sale",
+        "propertyPrice":7722,
+        "propertyAddressSm" :"8558 Green Rd",
+        "propertyAddressLg" :"RCE Theatres - 907 S Beckford Dr,Henderson,NC 27536",
+        "propertyImage":"https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iaiEe8Ajq3a8/v3/-1x-1.jpg"
+    },
+    {
+        "id" : 33,
+        "propertyLocation" : "London",
+        "isPopular" :false,
+        "rooms" : 3,
+        "bed" : 4,
+        "bath" : 1,
+        "sft" : 732,
+        "propertyFor":"sale",
+        "propertyPrice":7722,
+        "propertyAddressSm" :"8558 Green Rd",
+        "propertyAddressLg" :"RCE Theatres - 907 S Beckford Dr,Henderson,NC 27536",
+        "propertyImage":"https://ap.rdcpix.com/2044967547/ab6ee4d633b38c305bc691877589df46l-m22xd-w1020_h770_q80.jpg"
+    }
+
+   
+    
+    
+    
+]
